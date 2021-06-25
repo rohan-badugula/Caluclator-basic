@@ -41,3 +41,17 @@ button:active{
     transform: scale(0.95);
     transform: translateY(4px); 
 }
+.pink{
+    background-color: #bd1758db;
+     color: white;
+     font-weight: bolder;
+}
+.yellow{
+    background-color: #f6c908e8;
+     color: white;
+}
+.grey{
+    background-color: #5a58589e;
+    color: white;
+
+}
